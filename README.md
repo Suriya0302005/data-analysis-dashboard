@@ -22,5 +22,31 @@ The Students Performance Analysis Dashboard is to analyze, monitor, and visualiz
 
 - Dashboard interaction<a href="https://github.com/Suriya0302005/data-analysis-dashboard/blob/main/student_analysis_dashboard.pbix"> view dashboard</a>
 
+##Process
+*Data Collection – Collect student details such as student ID, department, subjects, marks, grades, and attendance.
+*Data Cleaning – Remove duplicate records, handle missing values, and correct incorrect data.
+*Data Storage – Store the cleaned data in MySQL/SQL tables.
+*Data Analysis – Use SQL queries to calculate average marks, maximum marks, minimum marks, pass percentage, and department/subject performance.
+*Data Visualization – Import the data into Power BI.
+*Dashboard Creation – Create KPI cards, charts, tables, and filters.
+*Performance Analysis – Analyze student, subject, and department-level performance.
+
 ## dashboard
-<img width="883" height="494" alt="Screenshot  project dashboard" src="https://github.com/user-attachments/assets/8479703b-314c-4acd-b3ec-95ec89d8db67" />
+
+<image width="883" height="494" alt="Screenshot  project dashboard" src="https://github.com/user-attachments/assets/8479703b-314c-4acd-b3ec-95ec89d8db67" />
+
+##Process Insights
+
+The dashboard helps identify:
+*Overall student performance and average marks.
+*Highest and lowest-performing students.
+*Subjects with the highest and lowest average marks.
+*Best and weakest-performing departments.
+*Number of students who passed and failed.
+*Students performing above or below the average.
+*Relationship between attendance and academic performance.
+*Students who may require additional academic support.
+
+## Final Conclusion
+
+The Student Performance Analysis Dashboard provides a clear and interactive view of students' academic performance. By analyzing marks, attendance, subjects, and departments, the dashboard helps identify high-performing and low-performing students and highlights areas that require improvement. The insights generated from SQL and Power BI can support teachers and management in making data-driven decisions and improving overall student academic performance.
