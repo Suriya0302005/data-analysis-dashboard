@@ -22,7 +22,8 @@ The Students Performance Analysis Dashboard is to analyze, monitor, and visualiz
 
 - Dashboard interaction<a href="https://github.com/Suriya0302005/data-analysis-dashboard/blob/main/student_analysis_dashboard.pbix"> view dashboard</a>
 
-##Process
+## Process
+
 *Data Collection – Collect student details such as student ID, department, subjects, marks, grades, and attendance.
 *Data Cleaning – Remove duplicate records, handle missing values, and correct incorrect data.
 *Data Storage – Store the cleaned data in MySQL/SQL tables.
@@ -35,7 +36,7 @@ The Students Performance Analysis Dashboard is to analyze, monitor, and visualiz
 
 <image width="883" height="494" alt="Screenshot  project dashboard" src="https://github.com/user-attachments/assets/8479703b-314c-4acd-b3ec-95ec89d8db67" />
 
-##Process Insights
+## Process Insights
 
 The dashboard helps identify:
 *Overall student performance and average marks.
