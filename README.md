@@ -4,4 +4,4 @@ The Students Performance Analysis Dashboard is to analyze, monitor, and visualiz
 
  -<a href="https://github.com/Suriya0302005/data-analysis-dashboard/blob/main/student_analysis_dashboard.pbix">dashboard
 
-- <a href="https://github.com/Suriya0302005/data-analysis-dashboard/blob/main/Screenshot%20.project%20dashboard.jpg">screenshot
+ -<a href="https://github.com/Suriya0302005/data-analysis-dashboard/blob/main/Screenshot%20.project%20dashboard.jpg">screenshot
