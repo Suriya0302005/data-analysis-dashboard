@@ -1,2 +1,3 @@
-# data-analysis-dashboard
-i developed project in power bi to get data set from MYSQL database. creating multiple dashboards and tables to analyze the raw data. this process involved several stages, including data preprocessing ,data cleaning and data visualization.
+students-performance-analysis(interactive dashboard creation using power bi)
+## main objective 
+the Students Performance Analysis Dashboard is to analyze, monitor, and visualize student academic data to improve decision-making, identify performance trends, and enhance overall educational outcomes.
